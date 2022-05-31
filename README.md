@@ -1,6 +1,6 @@
 This repository is a sample of an app made with StepZen, Deepgram, and Next.js. 
 
-To take a closer look at my project on your local machine, `git clone https://github.com/Cerchie/fun-with-deepgram-and-next && cd fun-with-deepgram-and-next && npm install && npm run dev`. (You'll need [npm](https://www.npmjs.com/) installed.)
+To take a closer look at my project on your local machine, `git clone https://github.com/stepzen-dev/stepzen-deepgram-next-sample.git && npm run dev`. (You'll need [npm](https://www.npmjs.com/) installed.)
 You'll also need to make a file in your root directory called `env.local` and put your Deepgram apikey in it like so: `DEEPGRAM_APIKEY=your_apikey_here`
 
 You can learn more about the inner workings by consulting the [Next](https://nextjs.org/docs), [StepZen](https://stepzen.com/docs) and [Deepgram](https://developers.deepgram.com/) documentation.
